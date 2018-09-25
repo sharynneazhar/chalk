@@ -1,0 +1,4 @@
+---
+slug: udacity
+name: Udacity
+---
